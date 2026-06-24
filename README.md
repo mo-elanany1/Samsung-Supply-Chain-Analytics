@@ -28,9 +28,13 @@ This dashboard addresses these challenges by providing a unified view of operati
 
 ## Dashboard Pages
 
+### Home Page
+<img src="Pages%20Dashbords/1.png" width="100%">
+
 ### 1. Overview Dashboard
 
 Provides a high-level summary of supply chain performance.
+<img src="Pages%20Dashbords/2.png" width="100%">
 
 #### Key KPIs
 
@@ -51,8 +55,8 @@ Provides a high-level summary of supply chain performance.
 ---
 
 ### 2. Supplier Performance Dashboard
-
 Analyzes supplier efficiency, procurement costs, and product quality.
+<img src="Pages%20Dashbords/3.png" width="100%">
 
 #### KPIs
 
@@ -74,6 +78,8 @@ Analyzes supplier efficiency, procurement costs, and product quality.
 ### 3. Inventory & Production Dashboard
 
 Monitors inventory levels, stock safety, and manufacturing quality.
+<img src="Pages%20Dashbords/4.png" width="100%">
+
 
 #### KPIs
 
@@ -94,6 +100,7 @@ Monitors inventory levels, stock safety, and manufacturing quality.
 ### 4. Shipment Dashboard
 
 Tracks transportation performance and delivery efficiency.
+<img src="Pages%20Dashbords/5.png" width="100%">
 
 #### KPIs
 
@@ -115,6 +122,7 @@ Tracks transportation performance and delivery efficiency.
 ### 5. Customer & Sales Dashboard
 
 Analyzes revenue generation, profitability, and sales channel performance.
+<img src="Pages%20Dashbords/6.png" width="100%">
 
 #### KPIs
 
@@ -162,3 +170,13 @@ The dashboard enables stakeholders to:
 Mohamed Elanany
 
 Data Analyst | Power BI Developer | Financial & Business Analytics
+
+# 📬 Connect With Me
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/M0hamed-Elanany1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C896?style=for-the-badge&logo=google-chrome&logoColor=white)](https://moelenany.netlify.app)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melenany606@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mo-elanany1)
+
+</div>
